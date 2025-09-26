@@ -3,6 +3,7 @@ name = "2-classification"
 version = "0.1.0"
 requires-python = "==3.12.*"
 dependencies = [
+    "faiss-cpu>=1.12.0",
     "gensim>=4.3.2",
     "matplotlib>=3.10.6",
     "nltk>=3.9.1",
@@ -11,6 +12,7 @@ dependencies = [
     "scikit-learn>=1.7.2",
     "scipy<1.13",
     "torch>=2.8.0",
+    "unidecode>=1.4.0",
 ]
 
 [dependency-groups]
