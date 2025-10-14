@@ -2,3 +2,6 @@
 **/*.txt
 **/*solved*
 **/prep_materials
+.venv
+cache
+deberta-qqp
