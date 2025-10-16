@@ -2,7 +2,7 @@
 **/*.txt
 **/*solved*
 **/prep_materials
-.venv
 cache
 deberta-qqp
-.gradio
+.*
+Train_rev1.*
