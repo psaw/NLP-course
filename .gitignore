@@ -3,3 +3,7 @@
 **/*solved*
 **/prep_materials
 **/.*/
+cache
+deberta-qqp
+.*
+Train_rev1.*
